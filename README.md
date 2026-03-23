@@ -1,5 +1,5 @@
 # Attendance-Tracker
-# 📌 Attendance Tracker System
+#  Attendance Tracker System
 
 ##  Overview
 The **Attendance Tracker System** is a simple desktop-based application developed using **Python** and **Tkinter**. It helps in recording and managing student attendance in an organized and efficient way.
