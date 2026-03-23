@@ -26,13 +26,19 @@ This project demonstrates the practical implementation of **Data Structures (Dic
 
 ---
 ## Objectives
--To develop a simple attendance tracking system
+To develop a simple attendance tracking system
+
 -To apply data structure concepts in real-world scenarios
+
 -To create a user-friendly GUI
+
 -To reduce manual errors in attendance management
 
 ## Advantages
 -Easy to use
+
 -Fast data access
+
 -Organized records
+
 -Beginner-friendly project
